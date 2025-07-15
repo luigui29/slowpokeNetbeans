@@ -10,7 +10,7 @@ import javax.swing.ImageIcon;
 
 public class PresentacionIntelliJ {
     static void GUI() {
-        ImageIcon slowpoke = new ImageIcon("C:\\Users\\luigu\\Documents\\EclipseProjects\\slowpokeProgram\\slowpokeEclipse\\slowpokeNetbeans\\src\\main\\java\\com\\uts\\presentacionnetbeans\\slowpokeking.gif");
+        ImageIcon slowpoke = new ImageIcon("C:\\Users\\luigu\\IdeaProjects\\slowpokeNetbeans\\src\\main\\java\\com\\uts\\presentacionnetbeans\\slowpokeking.gif");
 
         JFrame frame = new JFrame();
         JPanel panel = new JPanel();
