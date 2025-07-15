@@ -22,7 +22,7 @@ public class PresentacionIntelliJ {
 
         frame.add(panel, BorderLayout.CENTER);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setTitle("Intelligente Slowpoke");
+        frame.setTitle("Slowpoke en IntelliJ");
         frame.pack();
         frame.setVisible(true);
     }

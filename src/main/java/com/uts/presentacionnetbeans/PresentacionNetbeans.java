@@ -23,7 +23,7 @@ public class PresentacionNetbeans {
         
         frame.add(panel, BorderLayout.CENTER);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setTitle("Espero Estar Haciendo Esto Bien");
+        frame.setTitle("Slowpoke en NetBeans");
         frame.pack();
         frame.setVisible(true);
     }

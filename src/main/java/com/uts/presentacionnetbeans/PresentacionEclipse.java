@@ -23,7 +23,7 @@ public class PresentacionEclipse {
         
         frame.add(panel, BorderLayout.CENTER);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setTitle("Eclipse ya no me jodas please");
+        frame.setTitle("Slowpoke en Eclipse");
         frame.pack();
         frame.setVisible(true);
 	}
